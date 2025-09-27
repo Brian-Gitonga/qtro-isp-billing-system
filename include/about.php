@@ -86,7 +86,7 @@ if (!isset($_SESSION["qtro_isp"])) {
   </div>
   <div class="card-body">
   <div class="iFWrapper">
-    <iframe src="https://laksa19.github.io/mikhmonv3" ></iframe>
+    <iframe src="https://laksa19.github.io/qtro-isp" ></iframe>
   </div>
   </div>
 </div>

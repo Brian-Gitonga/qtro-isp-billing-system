@@ -24,14 +24,16 @@ $url2 = explode("&set-theme", $url)[0];
 
 $gettheme = $_GET['set-theme'];
 $mtheme = array(
+    "modern-dark",
     "dark",
     "light",
     "blue",
     "green",
     "pink",
-    
+
 );
 $theme_color = array(
+    "#121212",
     "#121212",
     "#121212",
     "#121212",
